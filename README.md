@@ -180,5 +180,7 @@ python run.py
 http://localhost:8000/docs
 ```
 
+for me how creat requirements.txt stable : pip freeze > requirements.txt
+
 ***
 
