@@ -38,7 +38,7 @@ uploads/extracted_texts/*
 # AI Models Cache
 .cache/
 huggingface/
-models/
+#models/
 
 # Logs
 *.log
