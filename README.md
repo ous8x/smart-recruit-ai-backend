@@ -1,8 +1,4 @@
 
-# 📂 **ملفات التوثيق والإعداد**
-
-## **ملف 1: `README.md`**
-
 # 🚀 Smart Recruit AI - Backend
 
 AI-Powered CV Filtering System for HR Recruitment using FastAPI
